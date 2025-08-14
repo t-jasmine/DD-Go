@@ -1,0 +1,13 @@
+{
+    "name": "DD-Go",
+    "version": "1.0",
+    "description": "A simple rhythm game chrome extension!",
+    "manifest_version": 3,
+    "author": "Jasmine Tran",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "DD-Go",
+        "default_icon": "icon.png"
+    }
+
+}

@@ -34,3 +34,7 @@ Unfortunately... I was caught up on life and got busy doing other things 😢 I 
 I'm thinking of, if it were to be a chrome extension, just a mini pop-up. There'd be a few songs, and I'd try to keep the 4-note setup.
 
 Now, I'm still planning things, and I'm going to start working on the mechanics soon! I'll be looking into how to create chrome extensions and stuff. I was thinking about starting to create the sprites and art soon, but I've recently learned that it is probably important to "greybox" and work on the mechanics before adding details and other things.
+
+8/13/2025
+
+Set up simple tests and initialized project files!
